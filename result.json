@@ -1,0 +1,101 @@
+[
+  {
+    "ROLL NO":0,
+    "STUDENT ":66,
+    "ATCD":88,
+    "IAI":34,
+    "DM":78,
+    "DBMS":67,
+    "JAVA":89
+  },
+  {
+    "ROLL NO":1,
+    "STUDENT ":"ANU",
+    "ATCD":77,
+    "IAI":45,
+    "DM":88,
+    "DBMS":96,
+    "JAVA":89
+  },
+  {
+    "ROLL NO":2,
+    "STUDENT ":"AISHU",
+    "ATCD":89,
+    "IAI":68,
+    "DM":77,
+    "DBMS":45,
+    "JAVA":68
+  },
+  {
+    "ROLL NO":3,
+    "STUDENT ":"NIKI",
+    "ATCD":60,
+    "IAI":46,
+    "DM":66,
+    "DBMS":65,
+    "JAVA":96
+  },
+  {
+    "ROLL NO":4,
+    "STUDENT ":"SAHASS",
+    "ATCD":78,
+    "IAI":78,
+    "DM":89,
+    "DBMS":78,
+    "JAVA":56
+  },
+  {
+    "ROLL NO":5,
+    "STUDENT ":"DHONI",
+    "ATCD":93,
+    "IAI":90,
+    "DM":45,
+    "DBMS":36,
+    "JAVA":45
+  },
+  {
+    "ROLL NO":6,
+    "STUDENT ":"VIRAT",
+    "ATCD":67,
+    "IAI":96,
+    "DM":67,
+    "DBMS":78,
+    "JAVA":34
+  },
+  {
+    "ROLL NO":7,
+    "STUDENT ":"SHREYAS",
+    "ATCD":89,
+    "IAI":78,
+    "DM":90,
+    "DBMS":98,
+    "JAVA":47
+  },
+  {
+    "ROLL NO":8,
+    "STUDENT ":"SMRITHI",
+    "ATCD":74,
+    "IAI":56,
+    "DM":67,
+    "DBMS":90,
+    "JAVA":58
+  },
+  {
+    "ROLL NO":9,
+    "STUDENT ":"HARMEEN",
+    "ATCD":69,
+    "IAI":99,
+    "DM":76,
+    "DBMS":87,
+    "JAVA":59
+  },
+  {
+    "ROLL NO":10,
+    "STUDENT ":"ASHRITHA",
+    "ATCD":90,
+    "IAI":100,
+    "DM":87,
+    "DBMS":56,
+    "JAVA":79
+  }
+]
